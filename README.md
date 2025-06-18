@@ -47,6 +47,7 @@ src/
 ## 🚀 Getting Started
 
 ### 1. Clone the repo
+
 ```bash
 git clone https://github.com/your-username/React-FeedbackForm.git
 cd React-FeedbackForm
@@ -79,5 +80,3 @@ Created by [Helia Karisani](https://github.com/Helia-Karisani)
 ## 📄 License
 
 This project is part of an IBM Developer Skills Network lab. © IBM Corporation. All rights reserved.
-
-```
