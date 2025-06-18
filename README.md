@@ -51,7 +51,7 @@ src/
 ```bash
 git clone https://github.com/your-username/React-FeedbackForm.git
 cd React-FeedbackForm
-````
+```
 
 ### 2. Install dependencies
 
