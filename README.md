@@ -73,10 +73,4 @@ npm run preview
 
 Then go to: [http://localhost:5173](http://localhost:5173)
 
-## 🙋‍♀️ Author
 
-Created by [Helia Karisani](https://github.com/Helia-Karisani)
-
-## 📄 License
-
-This project is part of an IBM Developer Skills Network lab. © IBM Corporation. All rights reserved.
