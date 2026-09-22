@@ -4,7 +4,7 @@
 
 A simple and interactive feedback form built with React. Users can enter their name, email, feedback, and a rating from 1 to 5. The form displays a confirmation dialog before submission and resets itself upon confirmation.
 
-## 🌟 Features
+## Features
 
 - Built using React functional components
 - State management using `useState` hook
@@ -13,7 +13,7 @@ A simple and interactive feedback form built with React. Users can enter their n
 - Resets form after successful submission
 - Styled with a custom CSS file
 
-## 🧠 What You’ll Learn
+## What You’ll Learn
 
 This project demonstrates:
 
@@ -24,13 +24,13 @@ This project demonstrates:
 - Displaying confirmation messages
 - Resetting form state in React
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - React (with Vite)
 - JavaScript (ES6+)
 - HTML/CSS
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 
@@ -44,7 +44,7 @@ src/
 
 ````
 
-## 🚀 Getting Started
+## Getting Started
 ````
 ### 1. Clone the repo
 
