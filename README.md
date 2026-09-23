@@ -1,5 +1,4 @@
 
-```markdown
 # React Feedback Form
 
 A simple and interactive feedback form built with React. Users can enter their name, email, feedback, and a rating from 1 to 5. The form displays a confirmation dialog before submission and resets itself upon confirmation.
